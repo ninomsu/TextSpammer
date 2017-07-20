@@ -1,0 +1,6 @@
+I'm not responsible for what you use this for, I found this out by accident while making notifcations for my Ethereum monitor. 
+
+
+Change the number in the "Sleep()" function for the amount of time you want in between texts
+
+Change the number in the "while (count < 1000):" for the amount of times you want to send a message, default is 1000 
